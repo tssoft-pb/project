@@ -1,0 +1,13 @@
+Index: readme
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- readme	(date 1513439163000)
++++ readme	(revision )
+@@ -1,3 +1,5 @@
+ master commit
+ master second commit
+ test commit
++
++test fix 1 bug
